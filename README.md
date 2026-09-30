@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=INICIANDO...;DESENVOLVEDOR+LOW-CODE+%26+SOFTWARE;C%23+%7C+.NET+%7C+MENDIX+%7C+POWER+APPS;AUTOMA%C3%87%C3%83O+%2B+IA;CONTROLANDO+O+WINDOWS+PELA+VOZ..." alt="Desenvolvedor low-code e software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=4FA3FF&center=true&vCenter=true&width=760&lines=INICIANDO...;DESENVOLVEDOR+NA+GENERAL+MOTORS;LOW-CODE+%26+SOFTWARE;C%23+%7C+.NET+%7C+MENDIX+%7C+POWER+APPS;AUTOMA%C3%87%C3%83O+%2B+IA;CONTROLANDO+O+WINDOWS+PELA+VOZ..." alt="Desenvolvedor low-code e software" />
 </p>
 
 <p align="center">
   <a href="https://github.com/theuslpszbr15/QuickVoice">
-    <img src="./assets/banner.gif" width="100%" alt="Matheus Souza: desenvolvedor low-code e software" />
+    <img src="./assets/banner.gif" width="100%" alt="Matheus Souza: desenvolvedor na General Motors (GM), low-code e software" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=F4F0E4&center=true&vCenter=true&width=700&lines=Sobre+mim%3A;About+me%3A" alt="Sobre mim" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=C3D3EA&center=true&vCenter=true&width=700&lines=Sobre+mim%3A;About+me%3A" alt="Sobre mim" />
 </p>
 
 <p align="center">
-  Crio apps e automações que tiram trabalho repetitivo do caminho:<br>
+  Desenvolvedor na <b>General Motors (GM)</b>. Crio apps e automações que tiram trabalho repetitivo do caminho:<br>
   apps <b>low-code</b> com Mendix e Power Apps, ferramentas em <b>C#/.NET</b> e vídeos em <b>motion design feitos com código</b>.
 </p>
 
 <p align="center">
   🎙️ Agora: <a href="https://github.com/theuslpszbr15/QuickVoice"><b>QuickVoice</b></a>, controle o Windows pela voz antes de terminar a frase<br>
-  ⚙️ Apps corporativos com Mendix, Power Apps e SharePoint<br>
+  🏭 Na GM: apps corporativos com Mendix, Power Apps e SharePoint<br>
   🎬 Motion design com HTML e GSAP (HyperFrames)<br>
   🌱 Estudando IA aplicada, .NET e React
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=F4F0E4&center=true&vCenter=true&width=700&lines=Ferramentas+e+tecnologias%3A;Tools+and+technologies%3A" alt="Ferramentas e tecnologias" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=C3D3EA&center=true&vCenter=true&width=700&lines=Ferramentas+e+tecnologias%3A;Tools+and+technologies%3A" alt="Ferramentas e tecnologias" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=F4F0E4&center=true&vCenter=true&width=700&lines=Projeto+em+destaque%3A;Featured+project%3A" alt="Projeto em destaque" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=C3D3EA&center=true&vCenter=true&width=700&lines=Projeto+em+destaque%3A;Featured+project%3A" alt="Projeto em destaque" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=F4F0E4&center=true&vCenter=true&width=700&lines=Veja+meus+projetos%3A;Acompanhe+minha+jornada%3A" alt="Veja meus projetos" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=C3D3EA&center=true&vCenter=true&width=700&lines=Veja+meus+projetos%3A;Acompanhe+minha+jornada%3A" alt="Veja meus projetos" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=FFD60A&section=footer&reversal=false&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0170CE,100:22D3EE&section=footer&reversal=false&animation=fadeIn)
