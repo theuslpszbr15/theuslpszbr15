@@ -55,11 +55,6 @@
   <sub><b>QuickVoice</b> · C# · .NET 10 · WPF · Whisper offline · <a href="https://github.com/theuslpszbr15/QuickVoice/releases/latest">baixar</a></sub>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theuslpszbr15&show_icons=true&hide_border=true&bg_color=0b0b0e&title_color=ffd60a&icon_color=ffd60a&text_color=f4f0e4&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuslpszbr15&layout=compact&hide_border=true&bg_color=0b0b0e&title_color=ffd60a&text_color=f4f0e4&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
 <h3 align="center">
   🔗 <b>Vamos conversar:</b>
   <br><br>
