@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=4FA3FF&center=true&vCenter=true&width=760&lines=INICIANDO...;DESENVOLVEDOR+NA+GENERAL+MOTORS;LOW-CODE+%26+SOFTWARE;C%23+%7C+.NET+%7C+MENDIX+%7C+POWER+APPS;AUTOMA%C3%87%C3%83O+%2B+IA;CONTROLANDO+O+WINDOWS+PELA+VOZ..." alt="Desenvolvedor low-code e software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=4FA3FF&center=true&vCenter=true&width=760&lines=INICIANDO...;DESENVOLVEDOR+C%23+%2F+.NET;LOW-CODE+%26+SOFTWARE;C%23+%7C+.NET+%7C+MENDIX+%7C+POWER+APPS;AUTOMA%C3%87%C3%83O+%2B+IA;CONTROLANDO+O+WINDOWS+PELA+VOZ..." alt="Desenvolvedor low-code e software" />
 </p>
 
 <p align="center">
   <a href="https://github.com/theuslpszbr15/QuickVoice">
-    <img src="./assets/banner.gif" width="100%" alt="Matheus Souza: desenvolvedor na General Motors (GM), low-code e software" />
+    <img src="./assets/banner.gif" width="100%" alt="Matheus Souza: desenvolvedor C# / .NET, low-code e IA" />
   </a>
 </p>
 
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  Desenvolvedor na <b>General Motors (GM)</b>. Crio apps e automações que tiram trabalho repetitivo do caminho:<br>
+  Desenvolvedor. Crio apps e automações que tiram trabalho repetitivo do caminho:<br>
   apps <b>low-code</b> com Mendix e Power Apps, ferramentas em <b>C#/.NET</b> e vídeos em <b>motion design feitos com código</b>.
 </p>
 
 <p align="center">
   🎙️ Agora: <a href="https://github.com/theuslpszbr15/QuickVoice"><b>QuickVoice</b></a>, controle o Windows pela voz antes de terminar a frase<br>
-  🏭 Na GM: apps corporativos com Mendix, Power Apps e SharePoint<br>
+  🧩 Apps low-code com Mendix, Power Apps e SharePoint<br>
   🎬 Motion design com HTML e GSAP (HyperFrames)<br>
   🌱 Estudando IA aplicada, .NET e React
 </p>
