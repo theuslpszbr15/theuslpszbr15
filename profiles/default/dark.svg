@@ -103,30 +103,30 @@
         <g transform="translate(406, 50)">
           <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
           <rect x="0" y="0" width="4" height="80" fill="#f3f4f6" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">QuickVoice</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Controle o Windows pela voz: ele age ant…</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">C#</text>
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">Nitro</text>
+          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Nitro ⚡ painel grátis pro After Effects:…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">JavaScript</text>
           
         </g>
       
         <g transform="translate(24, 142)">
           <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
           <rect x="0" y="0" width="4" height="80" fill="#f3f4f6" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">seraph</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">SERAPH - harness de codigo para o termin…</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">TypeScript</text>
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">controle-pessoal</text>
+          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">App de controle pessoal (PWA): finanças,…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">JavaScript</text>
           
         </g>
       
         <g transform="translate(406, 142)">
           <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
           <rect x="0" y="0" width="4" height="80" fill="#f3f4f6" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">roblox-game-skills</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 2</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Skills de IA para criar jogos de Roblox …</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">JavaScript</text>
+          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#f3f4f6">seraph</text>
+          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 1</text>
+          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">SERAPH - harness de codigo para o termin…</text>
+          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#f3f4f6">TypeScript</text>
           
         </g>
       
