@@ -4,8 +4,14 @@
       "instanceId": "widget_header",
       "widgetId": "header",
       "name": "Header Widget",
-      "position": { "x": 0, "y": 0 },
-      "size": { "width": 800, "height": 96 },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 96
+      },
       "config": {},
       "locked": false,
       "visible": true,
@@ -15,8 +21,14 @@
       "instanceId": "widget_bio",
       "widgetId": "bio",
       "name": "Bio Widget",
-      "position": { "x": 0, "y": 112 },
-      "size": { "width": 800, "height": 120 },
+      "position": {
+        "x": 0,
+        "y": 112
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
       "config": {
         "customTitle": "",
         "customBio": "Desenvolvedor C# / .NET, low-code (Mendix, Power Apps, SharePoint) e IA. Crio apps e automações que tiram trabalho repetitivo do caminho, e vídeos de motion design feitos com código.",
@@ -30,10 +42,29 @@
       "instanceId": "widget_tech",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
-      "position": { "x": 0, "y": 248 },
-      "size": { "width": 800, "height": 140 },
+      "position": {
+        "x": 0,
+        "y": 248
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
       "config": {
-        "selectedTechs": ["cs", "dotnet", "py", "ts", "js", "react", "html", "css", "powershell", "git", "vscode", "windows"]
+        "selectedTechs": [
+          "cs",
+          "dotnet",
+          "py",
+          "ts",
+          "js",
+          "react",
+          "html",
+          "css",
+          "powershell",
+          "git",
+          "vscode",
+          "windows"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -43,12 +74,23 @@
       "instanceId": "widget_repos",
       "widgetId": "repositories",
       "name": "Repositories Widget",
-      "position": { "x": 0, "y": 404 },
-      "size": { "width": 800, "height": 300 },
+      "position": {
+        "x": 0,
+        "y": 404
+      },
+      "size": {
+        "width": 800,
+        "height": 240
+      },
       "config": {
         "repoViewMode": "grid",
         "maxRepos": 4,
-        "selectedRepos": ["dynamic-island-windows", "QuickVoice", "seraph", "roblox-game-skills"],
+        "selectedRepos": [
+          "dynamic-island-windows",
+          "QuickVoice",
+          "seraph",
+          "roblox-game-skills"
+        ],
         "showRepoStars": true,
         "showRepoLanguage": true,
         "showRepoDesc": true
@@ -58,29 +100,21 @@
       "zIndex": 4
     },
     {
-      "instanceId": "widget_social",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": { "x": 0, "y": 720 },
-      "size": { "width": 800, "height": 120 },
-      "config": {
-        "selectedSocials": ["github"],
-        "socialUrls": { "github": "https://github.com/theuslpszbr15" }
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
-    },
-    {
       "instanceId": "widget_snake",
       "widgetId": "contribution-snake",
       "name": "Contribution-snake Widget",
-      "position": { "x": 0, "y": 856 },
-      "size": { "width": 800, "height": 250 },
+      "position": {
+        "x": 0,
+        "y": 660
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 6
+      "zIndex": 5
     }
   ],
   "globalStyles": {
