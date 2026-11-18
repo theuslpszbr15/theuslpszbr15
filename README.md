@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/theuslpszbr15/dynamic-island-windows">Dynamic Island</a> ·
-  <a href="https://github.com/theuslpszbr15/QuickVoice">QuickVoice</a> ·
-  <a href="https://github.com/theuslpszbr15/seraph">SERAPH</a> ·
-  <a href="https://github.com/theuslpszbr15/roblox-game-skills">Roblox Game Skills</a>
+  <a href="https://github.com/theuslpszbr15/Nitro">Nitro</a> ·
+  <a href="https://github.com/theuslpszbr15/controle-pessoal">Controle Pessoal</a> ·
+  <a href="https://github.com/theuslpszbr15/seraph">SERAPH</a>
 </p>
